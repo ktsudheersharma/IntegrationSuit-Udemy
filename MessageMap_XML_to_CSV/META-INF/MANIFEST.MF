@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: MessageMap_XML
 Bundle-SymbolicName: MessageMap_XML_to_CSV; singleton:=true
-Bundle-Version: 2026.7.13.1
+Bundle-Version: 2026.7.14.1
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
